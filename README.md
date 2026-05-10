@@ -6,8 +6,7 @@ I am a developer from the Czech Republic 🇨🇿
 ## 🚀 About Me
 📚 Student<br>
 💻 I focus on programming in Python<br>
-🌐 I create web projects<br>
-📖 I am constantly learning new technologies
+🌐 I create web projects
 
 ## 🛠️ Programming Languages
 🐍 Python<br>
