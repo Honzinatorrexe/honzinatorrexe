@@ -1,15 +1,16 @@
 # Hi 👋
 
-# My name is Honzinatorr and I am a developer from Czech Republic 🇨🇿
+My name is Honzinatorr<br>
+I am a developer from the Czech Republic 🇨🇿
 
-##🚀 About Me
-📑 Student
-💻 I focus on programming in Python
-🌐 I create web projects
-📚 I am constantly learning new technologies
+## 🚀 About Me
+📚 Student<br>
+💻 I focus on programming in Python<br>
+🌐 I create web projects<br>
+📖 I am constantly learning new technologies
 
-##🛠️ Programming Languages
-🐍 Python
-🌍 HTML
-🎨 CSS
+## 🛠️ Programming Languages
+🐍 Python<br>
+🌍 HTML<br>
+🎨 CSS<br>
 ⚡ JavaScript
