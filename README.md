@@ -5,8 +5,6 @@ I am from the Czech Republic 🇨🇿
 
 ## About Me
  Student<br>
-I create web projects
-
 ##  Programming Languages
 Python<br>
 HTML<br>
